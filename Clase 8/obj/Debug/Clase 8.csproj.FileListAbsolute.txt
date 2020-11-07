@@ -1,0 +1,13 @@
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\bin\Debug\Clase 8.exe.config
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\bin\Debug\Clase 8.exe
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\bin\Debug\Clase 8.pdb
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase 8.csprojAssemblyReference.cache
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase_8.Form1.resources
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase_8.Properties.Resources.resources
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase 8.csproj.GenerateResource.cache
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase 8.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase 8.exe
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase 8.pdb
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase_8.Form2.resources
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase_8.Form3.resources
+C:\Users\Jonathan\source\repos\Clase 8\Clase 8\obj\Debug\Clase_8.Form4.resources
